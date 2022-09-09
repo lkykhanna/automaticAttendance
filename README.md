@@ -1,5 +1,12 @@
 # automaticAttendance
 
+Install all the libraries in your system before running the main file. This project is basically created for automatics attendance and face detection. You need to upload all the person's images in traning_images folder with image name as person name.
+
+Created under IIT Madras Hackathon 2021.
+Lucky Khanna (Btech CSE)
+
+
+
 Requirements - 
 
 certifi==2020.6.20
